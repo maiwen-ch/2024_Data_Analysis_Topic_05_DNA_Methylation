@@ -14,7 +14,7 @@ Topic 05: Dissecting DNA methylation heterogeneity in disease
 Supervisor
 ----------
 
-- Supvervisor: Michael Scherer - m.scherer@dkfz.de
+- Supvervisor: Michael Scherer - michael.scherer@dkfz.de
 - Tutor: Stefanie Mantz - s.mantz@stud.uni-heidelberg.de
 
 
